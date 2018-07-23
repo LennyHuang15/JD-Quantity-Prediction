@@ -1,3 +1,8 @@
+## Files
+1. featuresx.csv: 不用git同步，共1000*6*762个sample，每个39维features和1维label
+2. 
+
+## features
 sku_id,dc_id,date
 -x_quantity			第(now-x)天quantity
 -x_vendibility		第(now-x)vendibility
